@@ -11,8 +11,7 @@ Email: busiredd@uncp.edu
 Phone:9105216415
 
 Mentor Information:
-Dr. Hector
-Dr. Yvonne Phillips
+Drs. Hector and Yvonne Phillips
 
 
 
