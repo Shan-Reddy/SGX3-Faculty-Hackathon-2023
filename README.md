@@ -17,21 +17,20 @@
   </div>
 </div>
 
-
+<strong>Target Course: CYB 4900-Cybersecurity Capstone Project</strong><br><br>
 <strong>Course Objective:</strong><br> 
 
-In the CYB 4900 Cybersecurity Capstone Project, student integrates deep learning with cybersecurity threat intelligence to address the specific challenges posed by Internet-of-Vehicles, particularly in the context of emergency vehicles using synthetic cyber knowledge graphs to represent and analyze cyber threat intelligence and relationships, and they will employ deep learning algorithms such as Autoencoders, RNNs, and CNNs for anomaly detection within this graph data. 
+In the CYB 4900 Cybersecurity Capstone Project, student integrates deep learning with cybersecurity threat intelligence to address the specific challenges posed by Internet-of-Vehicles, particularly in the context of emergency vehicles using synthetic cyber knowledge graphs to represent and analyze cyber threat intelligence and relationships, and they will employ deep learning algorithms such as Autoencoders, RNNs, and CNNs for anomaly detection within this graph data. <br><br>
 
 <strong>Course Goals/Tasks:</strong><br>
-
-Build SCKGs with frontends.
-Create STIX objects and store them.
-Generate interconnected threat graphs and visualization.
-Implement deep learning algorithms.
-Preprocess and format data.
-Train and evaluate models for anomaly detection.
-Simulate cybersecurity scenarios.
-Discuss ethical considerations.
+- Build SCKGs with Frontends.
+- Create STIX objects and store them.
+- Generate interconnected threat graphs and visualization.
+- Implement deep learning algorithms.
+- Preprocess and format data.
+- Train and evaluate models for anomaly detection.
+- Simulate cybersecurity scenarios.
+- Discuss ethical considerations.
 
 
 <strong>High-Performance Computing Resources in the course:</strong><br>
