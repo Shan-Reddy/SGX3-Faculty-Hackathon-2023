@@ -55,7 +55,10 @@
           <img src="BravesLogo.png" alt="Braves Logo">
         </div>
         <div class="column image">
-          <img src="UNCPLogo.png" alt="UNCP Logo">
+          <img src="UNCP2.jpg" alt="UNCP Logo">
+        </div>
+        <div class="column image">
+          <img src="UNCP1.jpg" alt="UNCP Logo">
         </div>
       </div>
       <div class="details">
@@ -79,8 +82,8 @@
       <strong>Course Objective:</strong>
       <p>In the CYB 4900 Cybersecurity Capstone Project, students integrate deep learning with cybersecurity threat intelligence to address the specific challenges posed by Internet-of-Vehicles, particularly in the context of emergency vehicles using synthetic cyber knowledge graphs to represent and analyze cyber threat intelligence and relationships, and they will employ deep learning algorithms such as Autoencoders, RNNs, and CNNs for anomaly detection within this graph data.</p>
     </div>
-    <div class="column">
-      <img src="Hero.png" alt="Hero Logo">
+    <div class="column image">
+      <center><img src="Hero.png" alt="Hero Logo"></center>center
     </div>
   </div>
 </div>
