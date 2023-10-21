@@ -1,14 +1,11 @@
 <font color="#0366d6"><strong> <center> Team Name: Threat Tracker </center></strong></font>
  
 <div class="columns">
-  <div class="column">
-    <img src="Hero.png" width="260" height="260" alt="Hero Logo">
+ <div class="column">
+    <img src="BravesLogo.png" width="300" height="300" alt="Braves Logo">
   </div>
  <div class="column">
-    <img src="BravesLogo.png" width="260" height="260" alt="Hero Logo">
-  </div>
- <div class="column">
-    <img src="UNCPLogo.png" width="260" height="260" alt="Hero Logo">
+    <img src="UNCPLogo.png" width="300" height="300" alt="UNCP Logo">
   </div>
 </div>
 
@@ -23,8 +20,17 @@
     Phone: 9105216415<br><br>
     <strong>Instructor's Mentors: Drs. Hector and Yvonne Phillips </strong>
 
-<strong>Course Objective:</strong><br> 
-In the CYB 4900 Cybersecurity Capstone Project, student integrates deep learning with cybersecurity threat intelligence to address the specific challenges posed by Internet-of-Vehicles, particularly in the context of emergency vehicles using synthetic cyber knowledge graphs to represent and analyze cyber threat intelligence and relationships, and they will employ deep learning algorithms such as Autoencoders, RNNs, and CNNs for anomaly detection within this graph data. <br>
+<div class="columns">
+  <div class="column">
+    <strong>Course Objective:</strong><br> 
+In the CYB 4900 Cybersecurity Capstone Project, student integrates deep learning with cybersecurity threat intelligence to address the specific challenges posed by Internet-of-Vehicles, particularly in the context of emergency vehicles using synthetic cyber knowledge graphs to represent and analyze cyber threat intelligence and relationships, and they will employ deep learning algorithms such as Autoencoders, RNNs, and CNNs for anomaly detection within this graph data.
+  </div>
+ <div class="column">
+    <img src="Hero.png" width="275" height="275" alt="Hero Logo">
+  </div>
+</div>
+
+ <br>
 
 <strong>Course Competency statement:</strong><br>
 The students in the course will become competent to complete the following “task” in the context of the “Threat/Warning Analyst” work role defined in the NICE Workforce
@@ -42,25 +48,18 @@ NICE Framework Task:<br>
 7. Simulate cybersecurity scenarios.
 8. Discuss ethical considerations.
 
-<div class="columns">
-
-  <div class="column">
-      <strong>Course Planning:</strong>
+<strong>Course Planning:</strong>
       - **Week 01-04:** Completion of Goals 1, 2, 7
       - **Week 05-08:** Completion of Goals 3, 4, 7
       - **Week 09-12:** Completion of Goals 5, 6, 7
       - **Week 13-16:** Completion of Goals 7, 8
-  </div>
   
-  <div class="column">
-      <strong>Course Grading Schema:</strong>
+<strong>Course Grading Schema:</strong>
   - **25%:** Create frontend for Identity, Malware, and Threat Actor objects
   - **25%:** Generate STIX objects from user input, Finish STIX objects, and store them in the database
   - **15%:** Generate/visualize a graph using three STIX objects Identity, Malware, and Threat Actor
   - **25%:** Anomaly detection using Deep Learning Algorithms
   - **10%:** Project management, final presentations, and report writing.
-  </div>
-</div>
 
 <div class="columns">
   <div class="column">
