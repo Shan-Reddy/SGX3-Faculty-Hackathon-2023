@@ -73,23 +73,8 @@
         <strong>Instructor's Mentors: Drs. Hector and Yvonne Phillips</strong>
       </div>
     </div>
-    <div class="section">
-  <div class="columns">
-    <div class="column">
-      <strong>Course Objective:</strong>
+   <strong>Course Objective:</strong>
       <p>In the CYB 4900 Cybersecurity Capstone Project, students integrate deep learning with cybersecurity threat intelligence to address the specific challenges posed by Internet-of-Vehicles, particularly in the context of emergency vehicles using synthetic cyber knowledge graphs to represent and analyze cyber threat intelligence and relationships, and they will employ deep learning algorithms such as Autoencoders, RNNs, and CNNs for anomaly detection within this graph data.</p>
-    </div>
-    <div class= "column image">
-
-<div style="text-align: center;">
-  <img src="BravesLogo.png" alt="Hero Image" style="display: block; margin: 0 auto;">
-</div>
-
-
-     
-    </div>
-  </div>
-</div>
     <div class="details">
       <strong>Course Competency statement:</strong>
       <p>The students in the course will become competent to complete the following “task” in the context of the “Threat/Warning Analyst” work role defined in the NICE Workforce Framework.</p>
@@ -175,6 +160,7 @@
       </ul>
     </div>
   </div>
+  <img src="BravesLogo.png" alt="Hero Image" style="display: block; margin: 0 auto;">
 </body>
 
 </html>
