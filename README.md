@@ -7,7 +7,6 @@
       font-family: Arial, sans-serif;
       background-color: #f5f5f5;
     }
-
     .container {
       max-width: 800px;
       margin: 0 auto;
@@ -16,7 +15,6 @@
       border-radius: 5px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     }
-
     .header {
       text-align: center;
       background-color: #0366d6;
@@ -24,25 +22,21 @@
       padding: 10px;
       border-radius: 5px 5px 0 0;
     }
-
     .section {
       background-color: #fff;
       padding: 20px;
       margin: 10px 0;
       border-radius: 0 0 5px 5px;
     }
-
     .image {
       text-align: center;
     }
-
     .image img {
       width: 300px;
       height: 300px;
       border-radius: 50%;
       margin: 10px;
     }
-
     .details {
       background-color: #f9f9f9;
       border-radius: 5px;
@@ -57,7 +51,6 @@
     <div class="header">
       <h1>Team Name: Threat Tracker</h1>
     </div>
-
     <div class="section">
       <div class="columns">
         <div class="column image">
@@ -67,11 +60,9 @@
           <img src="UNCPLogo.png" alt="UNCP Logo">
         </div>
       </div>
-
       <div class="details">
         <strong>Target Course:</strong> CYB 4900-Cybersecurity Capstone Project
       </div>
-
       <div class="details">
         <strong>Course Instructor:</strong>
         <p>Shan Reddy, PhD (He/Him)</p>
@@ -84,7 +75,6 @@
         <strong>Instructor's Mentors: Drs. Hector and Yvonne Phillips</strong>
       </div>
     </div>
-
     <div class="section">
       <div class="columns">
         <div class="column">
@@ -96,7 +86,6 @@
         </div>
       </div>
     </div>
-
     <div class="details">
       <strong>Course Competency statement:</strong>
       <p>The students in the course will become competent to complete the following “task” in the context of the “Threat/Warning Analyst” work role defined in the NICE Workforce Framework.</p>
@@ -105,7 +94,6 @@
         <li>T0748 - Monitor and report changes in threat dispositions, activities, tactics, capabilities, objectives, etc. as related to designated cyber operations warning problem sets.</li>
       </ul>
     </div>
-
     <div class="details">
       <strong>Course Goals/Tasks/Assignments:</strong>
       <ul>
@@ -119,7 +107,6 @@
         <li>Discuss ethical considerations.</li>
       </ul>
     </div>
-
     <div class="details">
       <strong>Course Planning:</strong>
       <ul>
@@ -129,7 +116,6 @@
         <li>Week 13-16: Completion of Goals 7, 8</li>
       </ul>
     </div>
-
     <div class="details">
       <strong>Course Grading Schema:</strong>
       <ul>
@@ -140,7 +126,6 @@
         <li>10%: Project management, final presentations, and report writing.</li>
       </ul>
     </div>
-
     <div class="columns">
       <div class="column">
         <strong>Course Tools
