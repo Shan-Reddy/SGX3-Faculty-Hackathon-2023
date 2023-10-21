@@ -2,15 +2,15 @@
 
 Project Team Name: Threat Tracker
 
-Faculty Information:
-Prashanth BusiReddyGari, PhD (He/Him)
-Director of Cyber Defense Education Center
-Assistant Professor of Computer Science
-Program Coordinator of Cybersecurity
-Email: busiredd@uncp.edu
-Phone:9105216415
+Faculty Information:<br>
+Prashanth BusiReddyGari, PhD (He/Him)<br>
+Director of Cyber Defense Education Center<br>
+Assistant Professor of Computer Science<br>
+Program Coordinator of Cybersecurity<br>
+Email: busiredd@uncp.edu<br>
+Phone:9105216415<br>
 
-Mentor Information:
+Mentor Information:<br>
 Drs. Hector and Yvonne Phillips
 
 
