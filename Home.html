@@ -60,6 +60,11 @@
       flex: 1; /* Equal width for columns */
       text-align: center; /* Center align content in columns */
     }
+
+    .left-aligned-list {
+      list-style-type: disc; /* You can change the bullet style if needed */
+      margin-left: 20px;     /* Adjust the left margin as per your preference */
+    }
   </style>
 </head>
 
@@ -129,25 +134,29 @@
         <li>10%: Project management, final presentations, and report writing.</li>
       </ul>
     </div>
-    <div class="columns details">
+    <div class="columns">
       <div class="column">
-        <strong>Course Tools/Packages/Environment:</strong><br><br>
-          Kaggle Datasets<br>
-          Synthetic Data Vault<br>
-          MITRE ATT&CK STIX Data<br>
-          Python 3.8+ with packages<br>
-          Oasis STIX2 (generator, validator, visualizer)<br>
-          Repos-IDEs-HPCs (Omnibond, GitHub, Jupyter, Sagemaker CPUs, ArgonneLabs GPUs, OakRidgeLabs GPUs)<br>
+        <strong>Course Tools/Packages/Environment:</strong>
+        <ul class="left-aligned-list">
+          <li>Kaggle Datasets</li>
+          <li>Synthetic Data Vault</li>
+          <li>MITRE ATT&CK</li>
+          <li>Python 3.8+ (faker lib)</li>
+          <li>Oasis STIX2 (generator, validator, visualizer)</li>
+          <li>Repos-IDEs-HPCs (Omnibond, GitHub, Jupyter, Sagemaker CPUs, ArgonneLabs GPUs, OakRidgeLabs GPUs)</li>
+        </ul>
       </div>
       <div class="column">
-        <strong>Skills/Knowledge/Abilities:</strong><br><br>
-          DBMS<br>  
-          Python<br>
-          Statistics<br>
-          Deep learning<br>
-          Vector Databases<br>
-          Anomaly detection<br>
-          Cyber intrusion knowledge<br>
+        <strong>Skills/Knowledge/Abilities:</strong>
+        <ul class="left-aligned-list">
+          <li>DBMS</li>
+          <li>Python</li>
+          <li>Statistics</li>
+          <li>Deep learning</li>
+          <li>Vector Databases</li>
+          <li>Anomaly detection</li>
+          <li>Cyber intrusion knowledge</li>
+        </ul>
       </div>
     </div>
     <div class="details">
