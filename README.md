@@ -1,1 +1,1 @@
-- [Home.html](https://shan-reddy.github.io/SGX3-Faculty-Hackathon-2023/Home.html)
+- [Target Course Information](https://shan-reddy.github.io/SGX3-Faculty-Hackathon-2023/Home.html)
