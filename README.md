@@ -45,25 +45,20 @@ NICE Framework Task:<br>
 <div class="columns">
 
   <div class="column">
-    <details>
-      <summary><strong>Course Planning:</strong></summary>
+      <strong>Course Planning:</strong>
       - **Week 01-04:** Completion of Goals 1, 2, 7
       - **Week 05-08:** Completion of Goals 3, 4, 7
       - **Week 09-12:** Completion of Goals 5, 6, 7
       - **Week 13-16:** Completion of Goals 7, 8
-    </details>
   </div>
   
   <div class="column">
-    <details>
-      <summary><strong>Course Assessment:</strong></summary>
-      | Weight | Task Description |
-      |--------|------------------|
-      | 25%    | Create frontend for Identity, Malware, and Threat Actor objects |
-      | 25%    | Generate STIX objects from user input, Finish STIX objects, and store them in the database |
-      | 25%    | Generate/visualize a graph using three STIX objects Identity, Malware, and Threat Actor |
-      | 25%    | Anomaly detection using Deep Learning Algorithms |
-    </details>
+      <strong>Course Grading Schema:</strong>
+  - **25%:** Create frontend for Identity, Malware, and Threat Actor objects
+  - **25%:** Generate STIX objects from user input, Finish STIX objects, and store them in the database
+  - **15%:** Generate/visualize a graph using three STIX objects Identity, Malware, and Threat Actor
+  - **25%:** Anomaly detection using Deep Learning Algorithms
+  - **10%:** Project management, final presentations, and report writing.
   </div>
 </div>
 
