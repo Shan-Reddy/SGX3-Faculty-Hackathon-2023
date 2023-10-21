@@ -128,4 +128,49 @@
     </div>
     <div class="columns">
       <div class="column">
-        <strong>Course Tools
+        <strong>Course Tools/Environment:</strong>
+        <ul>
+          <li>GitHub</li>
+          <li>Python 3.8+ with packages (faker)</li>
+          <li>Oasis stix2-generator, stix2-validator, stix-visualizer</li>
+          <li>Synthetic Data Vault</li>
+          <li>MITRE ATT&CK STIX Data</li>
+        </ul>
+      </div>
+      <div class="column">
+        <strong>Skills/Knowledge/Abilities:</strong>
+        <ul>
+          <li>Python</li>
+          <li>Statistics</li>
+          <li>Databases</li>
+          <li>Basic cyber intrusion knowledge</li>
+          <li>Deep learning</li>
+          <li>Anomaly detection</li>
+        </ul>
+      </div>
+    </div>
+    <div class="section">
+      <strong>Course Syllabus: In Construction</strong>
+    </div>
+    <div class="details">
+      <strong>Course HPC Resources:</strong>
+      <ul>
+        <li><a href="http://www.omnibond.com">Omnibond</a></li>
+        <li><a href="https://sciencegateways.org">Science Gateways</a></li>
+        <li><a href="https://www.tacc.utexas.edu/">Texas Advanced Computing Center</a></li>
+        <li><a href="https://www.ornl.gov">Oak Ridge National Laboratory</a></li>
+      </ul>
+    </div>
+    <div class="details">
+      <strong>Course Implementation Schedule:</strong>
+      <ul>
+        <li>Spring 2024</li>
+        <li>Fall 2024</li>
+        <li>Spring 2025</li>
+        <li>Fall 2025</li>
+      </ul>
+    </div>
+  </div>
+</body>
+
+</html>
