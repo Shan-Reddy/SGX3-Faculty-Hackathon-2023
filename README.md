@@ -52,7 +52,7 @@
     <div class="section">
       <div class="columns">
         <div class="column image">
-          <img src="BravesLogo.png" alt="Braves Logo">
+          <img src="Hero.png" alt="Braves Logo">
         </div>
         <div class="column image">
           <img src="UNCP1.jpg" alt="UNCP Logo">
@@ -82,7 +82,7 @@
     <div class= "column image">
 
 <div style="text-align: center;">
-  <img src="Hero.png" alt="Hero Image" style="display: block; margin: 0 auto;">
+  <img src="BravesLogo.png" alt="Hero Image" style="display: block; margin: 0 auto;">
 </div>
 
 
