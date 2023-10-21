@@ -20,7 +20,7 @@
 <strong>Target Course: CYB 4900-Cybersecurity Capstone Project</strong><br><br>
 <strong>Course Objective:</strong><br> 
 
-In the CYB 4900 Cybersecurity Capstone Project, student integrates deep learning with cybersecurity threat intelligence to address the specific challenges posed by Internet-of-Vehicles, particularly in the context of emergency vehicles using synthetic cyber knowledge graphs to represent and analyze cyber threat intelligence and relationships, and they will employ deep learning algorithms such as Autoencoders, RNNs, and CNNs for anomaly detection within this graph data. <br><br>
+In the CYB 4900 Cybersecurity Capstone Project, student integrates deep learning with cybersecurity threat intelligence to address the specific challenges posed by Internet-of-Vehicles, particularly in the context of emergency vehicles using synthetic cyber knowledge graphs to represent and analyze cyber threat intelligence and relationships, and they will employ deep learning algorithms such as Autoencoders, RNNs, and CNNs for anomaly detection within this graph data. <br>
 
 <strong>Course Goals/Tasks:</strong><br>
 - Build SCKGs with Frontends.
@@ -32,14 +32,8 @@ In the CYB 4900 Cybersecurity Capstone Project, student integrates deep learning
 - Simulate cybersecurity scenarios.
 - Discuss ethical considerations.
 
-
-<strong>High-Performance Computing Resources in the course:</strong><br>
-Omnibond - http://www.omnibond.com
-Science Gateways Community Institute - https://sciencegateways.org
-Texas Advanced Computing Center - https://www.tacc.utexas.edu/
-Oak Ridge National Laboratory - https://www.ornl.gov
-
-
-
-
-
+<strong>High-Performance Computing Resources in the course:</strong><be>
+   - <a href="http://www.omnibond.com">Omnibond</a><br>
+   - <a href="https://sciencegateways.org">Science Gateways</a><br>
+   - <a href="https://www.tacc.utexas.edu/">Texas Advanced Computing Center</a><br>
+   - <a href="https://www.ornl.gov">Oak Ridge National Laboratory</a><br>
