@@ -32,13 +32,13 @@ In the CYB 4900 Cybersecurity Capstone Project, student integrates deep learning
 
  <br>
 
-<strong>Course Competency statement:</strong><br>
+<strong>Course Competency statement:</strong>
 The students in the course will become competent to complete the following “task” in the context of the “Threat/Warning Analyst” work role defined in the NICE Workforce
 Framework.<br>
 NICE Framework Task:<br>
 - T0748 - Monitor and report changes in threat dispositions, activities, tactics, capabilities, objectives, etc. as related to designated cyber operations warning problem sets.
 
-<strong>Course Goals/Tasks/Assignments:</strong><br>
+<strong>Course Goals/Tasks/Assignments:</strong>
 1. Build SCKGs with Frontends.
 2. Create STIX objects and store them.
 3. Generate interconnected threat graphs and visualization.
@@ -49,10 +49,10 @@ NICE Framework Task:<br>
 8. Discuss ethical considerations.
 
 <strong>Course Planning:</strong>
-      - **Week 01-04:** Completion of Goals 1, 2, 7
-      - **Week 05-08:** Completion of Goals 3, 4, 7
-      - **Week 09-12:** Completion of Goals 5, 6, 7
-      - **Week 13-16:** Completion of Goals 7, 8
+      - Week 01-04: Completion of Goals 1, 2, 7
+      - Week 05-08: Completion of Goals 3, 4, 7
+      - Week 09-12: Completion of Goals 5, 6, 7
+      - Week 13-16: Completion of Goals 7, 8
   
 <strong>Course Grading Schema:</strong>
   - **25%:** Create frontend for Identity, Malware, and Threat Actor objects
