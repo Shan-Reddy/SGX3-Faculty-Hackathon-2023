@@ -160,7 +160,12 @@
       </ul>
     </div>
   </div>
-  <img src="BravesLogo.png" alt="Hero Image" style="display: block; margin: 0 auto;">
+   <div class="section">
+      <div class="columns">
+        <div class="column image">
+          <img src="BravesLogo.png" alt="Braves Logo">
+        </div>
+      </div>
 </body>
 
 </html>
