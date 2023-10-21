@@ -3,7 +3,7 @@
 <img src="Hero.png" width="200" height="200" alt="Hero Logo">
 
 
-Project Team Name: Threat Tracker
+<font color="blue"><strong>Project Team Name:</strong></font> Threat Tracker
 
 Faculty Information:<br>
 Shan Reddy, PhD (He/Him)<br>
