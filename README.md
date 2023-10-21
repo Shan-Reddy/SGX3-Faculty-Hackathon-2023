@@ -1,15 +1,16 @@
 | Column 1 | Column 2 |
 |----------|----------|
-| <img src="Hero.png" width="300" height="300" alt="Hero Logo">  |  
+| <img src="Hero.png" width="300" height="300" alt="Hero Logo">  |  <font color="#0366d6"><strong>Project Team Name: Threat Tracker</strong></font> |
+| | <strong>Faculty Information:</strong><be> |
 
 
 
 
 
 
-<font color="#0366d6"><strong>Project Team Name: Threat Tracker</strong></font>
 
-<strong>Faculty Information:</strong><br>
+
+
 Shan Reddy, PhD (He/Him)<br>
 Assistant Professor of Computer Science<br>
 [Director of Cyber Defense Education Center](https://www.uncp.edu/departments/mathematics-and-computer-science/uncp-cyber-defense-education-center)<br>
@@ -21,7 +22,7 @@ Phone:9105216415<be>
 <strong>Mentor Information:</strong><br>
 Drs. Hector and Yvonne Phillips
 
-<strong>Course Objective:</strong><br> |
+<strong>Course Objective:</strong><br> 
 
 In the CYB 4900 Cybersecurity Capstone Project, student integrates deep learning with cybersecurity threat intelligence to address the specific challenges posed by Internet-of-Vehicles, particularly in the context of emergency vehicles using synthetic cyber knowledge graphs to represent and analyze cyber threat intelligence and relationships, and they will employ deep learning algorithms such as Autoencoders, RNNs, and CNNs for anomaly detection within this graph data. 
 
