@@ -166,6 +166,5 @@
           <img src="BravesLogo.png" alt="Braves Logo">
         </div>
       </div>
-</body>
-
+   </body>
 </html>
