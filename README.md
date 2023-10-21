@@ -1,9 +1,10 @@
+ <font color="#0366d6"><strong> <center>Project Team Name: Threat Tracker </center></strong></font> <br><br>
+ 
 <div class="columns">
   <div class="column">
     <img src="Hero.png" width="300" height="300" alt="Hero Logo">
   </div>
   <div class="column">
-    <font color="#0366d6"><strong>Project Team Name: Threat Tracker</strong></font> <br><br>
     <strong>Faculty Information:</strong><br>
     Shan Reddy, PhD (He/Him)<br>
     Assistant Professor of Computer Science<br>
@@ -17,6 +18,7 @@
   </div>
 </div>
 
+<br>
 <strong>Target Course: CYB 4900-Cybersecurity Capstone Project</strong><br><br>
 <strong>Course Objective:</strong><br> 
 
