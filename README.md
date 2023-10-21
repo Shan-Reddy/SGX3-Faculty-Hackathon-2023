@@ -1,26 +1,19 @@
-| Column 1 | Column 2 |
-|----------|----------|
-| <img src="Hero.png" width="300" height="300" alt="Hero Logo">  |  <font color="#0366d6"><strong>Project Team Name: Threat Tracker</strong></font> |
-| | <strong>Faculty Information:</strong><be> |
-
-
-
-
-
-
-
-
-
-Shan Reddy, PhD (He/Him)<br>
-Assistant Professor of Computer Science<br>
-[Director of Cyber Defense Education Center](https://www.uncp.edu/departments/mathematics-and-computer-science/uncp-cyber-defense-education-center)<br>
-[Program Coordinator of Cybersecurity](https://www.uncp.edu/departments/mathematics-and-computer-science/computer-science/cybersecurity)<br>
-[University of North Carolina at Pembroke](https://www.uncp.edu/)<br>
-Email: busiredd@uncp.edu<br>
-Phone:9105216415<be>
-
-<strong>Mentor Information:</strong><br>
-Drs. Hector and Yvonne Phillips
+<div class="columns">
+  <div class="column"><img src="Hero.png" width="300" height="300" alt="Hero Logo"></div>
+  <div class="column">
+    <font color="#0366d6"><strong>Project Team Name: Threat Tracker</strong></font> <br>
+    <strong>Faculty Information:</strong><br>
+    Shan Reddy, PhD (He/Him)<br>
+    Assistant Professor of Computer Science<br>
+    [Director of Cyber Defense Education Center](https://www.uncp.edu/departments/mathematics-and-computer-science/uncp-cyber-defense-education-center)<br>
+    [Program Coordinator of Cybersecurity](https://www.uncp.edu/departments/mathematics-and-computer-science/computer-science/cybersecurity)<br>
+    [University of North Carolina at Pembroke](https://www.uncp.edu/)<br>
+    Email: busiredd@uncp.edu<br>
+    Phone:9105216415<br>
+    <strong>Mentor Information:</strong><br>
+    Drs. Hector and Yvonne Phillips
+  </div>
+</div>
 
 <strong>Course Objective:</strong><br> 
 
