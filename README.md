@@ -1,6 +1,6 @@
 #Faculty Hackathon 2023
+<img src="Hero.png" width="400" height="300" alt="Hero Logo">
 
-![Hero Seal](Hero.png | width=50)
 
 Project Team Name: Threat Tracker
 
