@@ -4,8 +4,16 @@
   <div class="column">
     <img src="Hero.png" width="260" height="260" alt="Hero Logo">
   </div>
-  <div class="column">
-    <strong>Faculty Information:</strong><br>
+ <div class="column">
+    <img src="BravesLogo.png" width="260" height="260" alt="Hero Logo">
+  </div>
+ <div class="column">
+    <img src="UNCPLogo.png" width="260" height="260" alt="Hero Logo">
+  </div>
+</div>
+
+<strong>Target Course: CYB 4900-Cybersecurity Capstone Project</strong><br><be>
+<strong>Course Instructor:</strong><br>
     Shan Reddy, PhD (He/Him)<br>
     Assistant Professor of Computer Science<br>
     <a href="https://www.uncp.edu/departments/mathematics-and-computer-science/uncp-cyber-defense-education-center">Director of Cyber Defense Education Center</a><br>
@@ -13,13 +21,7 @@
     <a href="https://www.uncp.edu/">University of North Carolina at Pembroke</a><br>
     Email: busiredd@uncp.edu<br>
     Phone: 9105216415<br><br>
-    <strong>Mentor Information:</strong><br>
-    Drs. Hector and Yvonne Phillips
-  </div>
-</div>
-
-<br>
-<strong>Target Course: CYB 4900-Cybersecurity Capstone Project</strong><br><be>
+    <strong>Instructor's Mentors: Drs. Hector and Yvonne Phillips </strong>
 
 <strong>Course Objective:</strong><br> 
 In the CYB 4900 Cybersecurity Capstone Project, student integrates deep learning with cybersecurity threat intelligence to address the specific challenges posed by Internet-of-Vehicles, particularly in the context of emergency vehicles using synthetic cyber knowledge graphs to represent and analyze cyber threat intelligence and relationships, and they will employ deep learning algorithms such as Autoencoders, RNNs, and CNNs for anomaly detection within this graph data. <br>
@@ -41,21 +43,27 @@ NICE Framework Task:<br>
 8. Discuss ethical considerations.
 
 <div class="columns">
+
   <div class="column">
-    <strong>Course Planning:</strong><br>
-    - Week 01-04: Completion of Goals 1, 2, 7<br>
-    - Week 05-08: Completion of Goals 3, 4, 7<br>
-    - Week 09-12: Completion of Goals 5, 6, 7<br>
-    - Week 13-16: Completion of Goals 7, 8
+    <details>
+      <summary><strong>Course Planning:</strong></summary>
+      - **Week 01-04:** Completion of Goals 1, 2, 7
+      - **Week 05-08:** Completion of Goals 3, 4, 7
+      - **Week 09-12:** Completion of Goals 5, 6, 7
+      - **Week 13-16:** Completion of Goals 7, 8
+    </details>
   </div>
+  
   <div class="column">
-    <strong>Course Assessment:</strong><br>
-    | Weight | Task Description |
-    |--------|------------------|
-    | 25%    | Create frontend for Identity, Malware, and Threat Actor objects |
-    | 25%    | Generate STIX objects from user input, Finish STIX objects, and store them in the database |
-    | 25%    | Generate/visualize a graph using three STIX objects Identity, Malware, and Threat Actor |
-    | 25%    | Anomaly detection using Deep Learning Algorithms |
+    <details>
+      <summary><strong>Course Assessment:</strong></summary>
+      | Weight | Task Description |
+      |--------|------------------|
+      | 25%    | Create frontend for Identity, Malware, and Threat Actor objects |
+      | 25%    | Generate STIX objects from user input, Finish STIX objects, and store them in the database |
+      | 25%    | Generate/visualize a graph using three STIX objects Identity, Malware, and Threat Actor |
+      | 25%    | Anomaly detection using Deep Learning Algorithms |
+    </details>
   </div>
 </div>
 
