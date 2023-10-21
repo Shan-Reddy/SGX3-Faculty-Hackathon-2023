@@ -1,5 +1,7 @@
 #Faculty Hackathon 2023
 
+![Hero Seal](Hero.png)
+
 Project Team Name: Threat Tracker
 
 Faculty Information:<br>
