@@ -66,8 +66,10 @@
         <strong>Instructor's Mentors: Drs. Hector and Yvonne Phillips</strong>
       </div>
     </div>
+    <div class="details">
    <strong>Course Objective:</strong>
       <p>In the CYB 4900 Cybersecurity Capstone Project, students integrate deep learning with cybersecurity threat intelligence to address the specific challenges posed by Internet-of-Vehicles, particularly in the context of emergency vehicles using synthetic cyber knowledge graphs to represent and analyze cyber threat intelligence and relationships, and they will employ deep learning algorithms such as Autoencoders, RNNs, and CNNs for anomaly detection within this graph data.</p>
+    </div>
     <div class="details">
       <strong>Course Competency statement:</strong>
       <p>The students in the course will become competent to complete the following “task” in the context of the “Threat/Warning Analyst” work role defined in the NICE Workforce Framework.</p>
@@ -159,13 +161,13 @@
           <img src="BravesLogo.png" alt="Braves Logo">
         </div>
         <div><div class="details">
-        <strong>Course Instructor Contact Information:</strong>
-        <p>Dr. Shan Reddy</p>
-        <p>Assistant Professor of Computer Science</p>
-        <p><a href="https://www.uncp.edu/departments/mathematics-and-computer-science/uncp-cyber-defense-education-center">Director of Cyber Defense Education Center</a></p>
-        <p><a href="https://www.uncp.edu/departments/mathematics-and-computer-science/computer-science/cybersecurity">Program Coordinator of Cybersecurity</a></p>
-        <p><a href="https://www.uncp.edu/">University of North Carolina at Pembroke</a></p>
-        <p>Email: busiredd@uncp.edu</p>
-        <p>Phone: 910-521-6415</p>
+        <strong>Course Instructor Contact Information:</strong><br>
+        <div>Dr. Shan Reddy<br>
+        Assistant Professor of Computer Science<br>
+        <a href="https://www.uncp.edu/departments/mathematics-and-computer-science/uncp-cyber-defense-education-center">Director of Cyber Defense Education Center</a><br>
+        <a href="https://www.uncp.edu/departments/mathematics-and-computer-science/computer-science/cybersecurity">Program Coordinator of Cybersecurity</a><br>
+        <a href="https://www.uncp.edu/">University of North Carolina at Pembroke</a><br>
+        Email: busiredd@uncp.edu<br>
+        Phone: 910-521-6415</div>
       </div></div>
       </div>
