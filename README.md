@@ -2,7 +2,7 @@
  
 <div class="columns">
   <div class="column">
-    <img src="Hero.png" width="250" height="250" alt="Hero Logo">
+    <img src="Hero.png" width="260" height="260" alt="Hero Logo">
   </div>
   <div class="column">
     <strong>Faculty Information:</strong><br>
@@ -43,42 +43,43 @@ NICE Framework Task:<br>
 <div class="columns">
   <div class="column">
     <strong>Course Planning:</strong><br>
-    - Week 01-04: Completion of Goals 1, 2, 7
-    - Week 05-08: Completion of Goals 3, 4, 7
-    - Week 09-12: Completion of Goals 5, 6, 7
+    - Week 01-04: Completion of Goals 1, 2, 7<br>
+    - Week 05-08: Completion of Goals 3, 4, 7<br>
+    - Week 09-12: Completion of Goals 5, 6, 7<br>
     - Week 13-16: Completion of Goals 7, 8
   </div>
- <div class="column">
-  <strong>Course Assessment:</strong><br>
-    | Weight | Task Description                                                                                            |
-    |--------|-------------------------------------------------------------------------------------------------------------|
-    | 25%    | Create frontend for Identity, Malware, and Threat Actor objects                                             |
-    | 25%    | Generate STIX objects from user input, Finish STIX objects, and store them in the database                  |
-    | 25%    | Generate/visualize a graph using three STIX objects Identity, Malware, and Threat Actor                     |
-    | 25%    | Anomaly detection using Deep Learning Algorithms                                                            |
- </div>
+  <div class="column">
+    <strong>Course Assessment:</strong><br>
+    | Weight | Task Description |
+    |--------|------------------|
+    | 25%    | Create frontend for Identity, Malware, and Threat Actor objects |
+    | 25%    | Generate STIX objects from user input, Finish STIX objects, and store them in the database |
+    | 25%    | Generate/visualize a graph using three STIX objects Identity, Malware, and Threat Actor |
+    | 25%    | Anomaly detection using Deep Learning Algorithms |
+  </div>
 </div>
 
 <div class="columns">
   <div class="column">
     <strong>Course Tools/Environment:</strong><br>
-     - GitHub
-     - Python 3.8+ with packages (faker)
-     - Oasis stix2-generator, stix2-validator, stix-visualizer
-     - Synthetic Data Vault
-     - MITRE ATT&CK STIX Data
+    - GitHub<br>
+    - Python 3.8+ with packages (faker)<br>
+    - Oasis stix2-generator, stix2-validator, stix-visualizer<br>
+    - Synthetic Data Vault<br>
+    - MITRE ATT&CK STIX Data
   </div>
- <div class="column">
-  <strong>Course Assessment:</strong><br>
+  <div class="column">
     <strong>Skills/Knowledge/Abilities:</strong><br>
-     - Python
-     - Statistics
-     - Databases
-     - Basic cyber intrusion knowledge
-     - Deep learning
-     - Anomaly detection
- </div>
+    - Python<br>
+    - Statistics<br>
+    - Databases<br>
+    - Basic cyber intrusion knowledge<br>
+    - Deep learning<br>
+    - Anomaly detection
+  </div>
 </div>
+
+<strong>Course Syllabus: In Construction </strong><br>
 
 <strong>Course HPC Resources:</strong><br>
 - <a href="http://www.omnibond.com">Omnibond</a><br>
