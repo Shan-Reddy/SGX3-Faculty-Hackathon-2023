@@ -165,4 +165,15 @@
         <div class="column image">
           <img src="BravesLogo.png" alt="Braves Logo">
         </div>
+        <div><div class="details">
+        <strong>Course Instructor:</strong>
+        <p>Shan Reddy, PhD (He/Him)</p>
+        <p>Assistant Professor of Computer Science</p>
+        <p><a href="https://www.uncp.edu/departments/mathematics-and-computer-science/uncp-cyber-defense-education-center">Director of Cyber Defense Education Center</a></p>
+        <p><a href="https://www.uncp.edu/departments/mathematics-and-computer-science/computer-science/cybersecurity">Program Coordinator of Cybersecurity</a></p>
+        <p><a href="https://www.uncp.edu/">University of North Carolina at Pembroke</a></p>
+        <p>Email: busiredd@uncp.edu</p>
+        <p>Phone: 9105216415</p>
+        <strong>Instructor's Mentors: Drs. Hector and Yvonne Phillips</strong>
+      </div></div>
       </div>
