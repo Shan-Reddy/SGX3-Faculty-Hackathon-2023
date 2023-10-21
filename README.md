@@ -1,96 +1,146 @@
-<font color="#0366d6"><strong> <center> Team Name: Threat Tracker </center></strong></font>
- 
-<div class="columns">
- <div class="column">
-    <img src="BravesLogo.png" width="300" height="300" alt="Braves Logo">
-  </div>
- <div class="column">
-    <img src="UNCPLogo.png" width="300" height="300" alt="UNCP Logo">
-  </div>
-</div>
+<!DOCTYPE html>
+<html>
 
-<strong>Target Course: CYB 4900-Cybersecurity Capstone Project</strong><br><be>
-<strong>Course Instructor:</strong><br>
-    Shan Reddy, PhD (He/Him)<br>
-    Assistant Professor of Computer Science<br>
-    <a href="https://www.uncp.edu/departments/mathematics-and-computer-science/uncp-cyber-defense-education-center">Director of Cyber Defense Education Center</a><br>
-    <a href="https://www.uncp.edu/departments/mathematics-and-computer-science/computer-science/cybersecurity">Program Coordinator of Cybersecurity</a><br>
-    <a href="https://www.uncp.edu/">University of North Carolina at Pembroke</a><br>
-    Email: busiredd@uncp.edu<br>
-    Phone: 9105216415<br><br>
-    <strong>Instructor's Mentors: Drs. Hector and Yvonne Phillips </strong>
+<head>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+    }
 
-<div class="columns">
-  <div class="column">
-    <strong>Course Objective:</strong><br> 
-In the CYB 4900 Cybersecurity Capstone Project, student integrates deep learning with cybersecurity threat intelligence to address the specific challenges posed by Internet-of-Vehicles, particularly in the context of emergency vehicles using synthetic cyber knowledge graphs to represent and analyze cyber threat intelligence and relationships, and they will employ deep learning algorithms such as Autoencoders, RNNs, and CNNs for anomaly detection within this graph data.
-  </div>
- <div class="column">
-    <img src="Hero.png" width="275" height="275" alt="Hero Logo">
-  </div>
-</div>
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
 
- <br>
+    .header {
+      text-align: center;
+      background-color: #0366d6;
+      color: white;
+      padding: 10px;
+      border-radius: 5px 5px 0 0;
+    }
 
-<strong>Course Competency statement:</strong>
-The students in the course will become competent to complete the following “task” in the context of the “Threat/Warning Analyst” work role defined in the NICE Workforce
-Framework.<br>
-NICE Framework Task:<br>
-- T0748 - Monitor and report changes in threat dispositions, activities, tactics, capabilities, objectives, etc. as related to designated cyber operations warning problem sets.
+    .section {
+      background-color: #fff;
+      padding: 20px;
+      margin: 10px 0;
+      border-radius: 0 0 5px 5px;
+    }
 
-<strong>Course Goals/Tasks/Assignments:</strong>
-1. Build SCKGs with Frontends.
-2. Create STIX objects and store them.
-3. Generate interconnected threat graphs and visualization.
-4. Implement deep learning algorithms.
-5. Preprocess and format data.
-6. Train and evaluate models for anomaly detection.
-7. Simulate cybersecurity scenarios.
-8. Discuss ethical considerations.
+    .image {
+      text-align: center;
+    }
 
-<strong>Course Planning:</strong>
-      - Week 01-04: Completion of Goals 1, 2, 7
-      - Week 05-08: Completion of Goals 3, 4, 7
-      - Week 09-12: Completion of Goals 5, 6, 7
-      - Week 13-16: Completion of Goals 7, 8
-  
-<strong>Course Grading Schema:</strong>
-  - **25%:** Create frontend for Identity, Malware, and Threat Actor objects
-  - **25%:** Generate STIX objects from user input, Finish STIX objects, and store them in the database
-  - **15%:** Generate/visualize a graph using three STIX objects Identity, Malware, and Threat Actor
-  - **25%:** Anomaly detection using Deep Learning Algorithms
-  - **10%:** Project management, final presentations, and report writing.
+    .image img {
+      width: 300px;
+      height: 300px;
+      border-radius: 50%;
+      margin: 10px;
+    }
 
-<div class="columns">
-  <div class="column">
-    <strong>Course Tools/Environment:</strong><br>
-    - GitHub<br>
-    - Python 3.8+ with packages (faker)<br>
-    - Oasis stix2-generator, stix2-validator, stix-visualizer<br>
-    - Synthetic Data Vault<br>
-    - MITRE ATT&CK STIX Data
-  </div>
-  <div class="column">
-    <strong>Skills/Knowledge/Abilities:</strong><br>
-    - Python<br>
-    - Statistics<br>
-    - Databases<br>
-    - Basic cyber intrusion knowledge<br>
-    - Deep learning<br>
-    - Anomaly detection
-  </div>
-</div>
+    .details {
+      background-color: #f9f9f9;
+      border-radius: 5px;
+      padding: 10px;
+      margin: 10px 0;
+    }
+  </style>
+</head>
 
-<strong>Course Syllabus: In Construction </strong><br>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Team Name: Threat Tracker</h1>
+    </div>
 
-<strong>Course HPC Resources:</strong><br>
-- <a href="http://www.omnibond.com">Omnibond</a><br>
-- <a href="https://sciencegateways.org">Science Gateways</a><be>
-- <a href="https://www.tacc.utexas.edu/">Texas Advanced Computing Center</a><br>
-- <a href="https://www.ornl.gov">Oak Ridge National Laboratory</a><be>
+    <div class="section">
+      <div class="columns">
+        <div class="column image">
+          <img src="BravesLogo.png" alt="Braves Logo">
+        </div>
+        <div class="column image">
+          <img src="UNCPLogo.png" alt="UNCP Logo">
+        </div>
+      </div>
 
-<strong>Course Implementation Schedule:</strong><br>
-- Spring 2024
-- Fall 2024
-- Spring 2025
-- Fall 2025
+      <div class="details">
+        <strong>Target Course:</strong> CYB 4900-Cybersecurity Capstone Project
+      </div>
+
+      <div class="details">
+        <strong>Course Instructor:</strong>
+        <p>Shan Reddy, PhD (He/Him)</p>
+        <p>Assistant Professor of Computer Science</p>
+        <p><a href="https://www.uncp.edu/departments/mathematics-and-computer-science/uncp-cyber-defense-education-center">Director of Cyber Defense Education Center</a></p>
+        <p><a href="https://www.uncp.edu/departments/mathematics-and-computer-science/computer-science/cybersecurity">Program Coordinator of Cybersecurity</a></p>
+        <p><a href="https://www.uncp.edu/">University of North Carolina at Pembroke</a></p>
+        <p>Email: busiredd@uncp.edu</p>
+        <p>Phone: 9105216415</p>
+        <strong>Instructor's Mentors: Drs. Hector and Yvonne Phillips</strong>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="columns">
+        <div class="column">
+          <strong>Course Objective:</strong>
+          <p>In the CYB 4900 Cybersecurity Capstone Project, students integrate deep learning with cybersecurity threat intelligence to address the specific challenges posed by Internet-of-Vehicles, particularly in the context of emergency vehicles using synthetic cyber knowledge graphs to represent and analyze cyber threat intelligence and relationships, and they will employ deep learning algorithms such as Autoencoders, RNNs, and CNNs for anomaly detection within this graph data.</p>
+        </div>
+        <div class="column image">
+          <img src="Hero.png" alt="Hero Logo">
+        </div>
+      </div>
+    </div>
+
+    <div class="details">
+      <strong>Course Competency statement:</strong>
+      <p>The students in the course will become competent to complete the following “task” in the context of the “Threat/Warning Analyst” work role defined in the NICE Workforce Framework.</p>
+      <p><strong>NICE Framework Task:</strong></p>
+      <ul>
+        <li>T0748 - Monitor and report changes in threat dispositions, activities, tactics, capabilities, objectives, etc. as related to designated cyber operations warning problem sets.</li>
+      </ul>
+    </div>
+
+    <div class="details">
+      <strong>Course Goals/Tasks/Assignments:</strong>
+      <ul>
+        <li>Build SCKGs with Frontends.</li>
+        <li>Create STIX objects and store them.</li>
+        <li>Generate interconnected threat graphs and visualization.</li>
+        <li>Implement deep learning algorithms.</li>
+        <li>Preprocess and format data.</li>
+        <li>Train and evaluate models for anomaly detection.</li>
+        <li>Simulate cybersecurity scenarios.</li>
+        <li>Discuss ethical considerations.</li>
+      </ul>
+    </div>
+
+    <div class="details">
+      <strong>Course Planning:</strong>
+      <ul>
+        <li>Week 01-04: Completion of Goals 1, 2, 7</li>
+        <li>Week 05-08: Completion of Goals 3, 4, 7</li>
+        <li>Week 09-12: Completion of Goals 5, 6, 7</li>
+        <li>Week 13-16: Completion of Goals 7, 8</li>
+      </ul>
+    </div>
+
+    <div class="details">
+      <strong>Course Grading Schema:</strong>
+      <ul>
+        <li>25%: Create frontend for Identity, Malware, and Threat Actor objects</li>
+        <li>25%: Generate STIX objects from user input, Finish STIX objects, and store them in the database</li>
+        <li>15%: Generate/visualize a graph using three STIX objects Identity, Malware, and Threat Actor</li>
+        <li>25%: Anomaly detection using Deep Learning Algorithms</li>
+        <li>10%: Project management, final presentations, and report writing.</li>
+      </ul>
+    </div>
+
+    <div class="columns">
+      <div class="column">
+        <strong>Course Tools
